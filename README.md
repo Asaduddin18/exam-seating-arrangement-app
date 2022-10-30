@@ -1,4 +1,4 @@
-# HTF22-Team-09
+# Exam seating arrangement application
 The application has various actors, one would be admin who will be responsible for the generation of seat allotments and will also responsible for allotting the faculty to various classes
 There would be a student who will be interacting with the system to view their room and seat allotment.
 The faculty will be using the application to view the class allotted to them for invigilation.
